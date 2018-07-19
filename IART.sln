@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IART", "IART\IART.vcxproj", "{DA895A72-91C6-410C-A922-7C95AEB6FD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Debug|x64.ActiveCfg = Debug|x64
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Debug|x64.Build.0 = Debug|x64
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Debug|x86.Build.0 = Debug|Win32
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Release|x64.ActiveCfg = Release|x64
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Release|x64.Build.0 = Release|x64
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Release|x86.ActiveCfg = Release|Win32
+		{DA895A72-91C6-410C-A922-7C95AEB6FD4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {E5A68E10-9EFB-4135-8C02-B578AD072153}
+	EndGlobalSection
+EndGlobal

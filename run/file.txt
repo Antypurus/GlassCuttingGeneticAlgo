@@ -1,0 +1,16 @@
+30 27 18
+tri 8 4 2 
+quad 3 7 3 
+tri 18 12 4 
+quad 14 1 4 
+tri 2 7 1 
+quad 17 12 4 
+tri 16 18 2 
+tri 13 10 2 
+quad 4 5 3 
+quad 14 11 4 
+quad 12 13 4 
+tri 20 18 2 
+tri 1 17 3 
+quad 3 10 4 
+quad 1 11 4 
